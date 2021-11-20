@@ -1,0 +1,2 @@
+# beix.github.io
+blog
